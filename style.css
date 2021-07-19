@@ -1,0 +1,29 @@
+body {
+    font-size: 30px;
+    font-family: 'Yomogi', cursive;
+    text-align: center;
+}
+
+#profile {
+    height: 250px;
+    width: 250px;
+    border-radius: 10%;
+    padding-top: 40px;
+}
+
+#s1 {
+    background: linear-gradient(purple, blue);
+    height: 600px;
+}
+
+#title {
+    font-size: 55px;
+}
+
+#heading {
+    font-size: 60px;
+}
+
+#s2 {
+    font-size: 30px;
+}
